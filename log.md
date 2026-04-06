@@ -48,3 +48,9 @@ Append-only timeline of ingest/query/lint operations.
 - Added/updated concepts: `wiki/concept-codex-platform-architecture.md`, `wiki/concept-codex-enterprise-rollout.md`.
 - Updated `index.md` source/concept entries.
 - Source stats: 446 H1 page sections, 95 Codex URLs referenced.
+
+## [2026-04-06] lint | first full wiki lint pass
+- Scanned wiki pages for broken links, orphan pages, placeholder content, and index coverage.
+- Added report: `wiki/analysis-lint-2026-04-06.md`.
+- Updated `index.md` analyses listing.
+- Findings summary: 19 pages, 1 broken links, 3 orphans, 3 placeholder pages, 0 unindexed pages.
