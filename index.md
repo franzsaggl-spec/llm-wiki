@@ -3,6 +3,7 @@
 Catalog of wiki pages.
 
 ## Sources
+- [wiki/source-codex-full-docs.md](wiki/source-codex-full-docs.md) — Full Codex docs bundle from developers.openai.com with synthesized coverage map.
 - [wiki/source-complete-guide-building-skills-claude.md](wiki/source-complete-guide-building-skills-claude.md) — Anthropic PDF guide on building Claude skills (with local extraction companion).
 - [wiki/source-agentskills-io-full-docs.md](wiki/source-agentskills-io-full-docs.md) — Combined AgentSkills.io docs snapshot (10 pages) with synthesis.
 - [wiki/source-agent-skills-best-practices.md](wiki/source-agent-skills-best-practices.md) — Official best-practice guidance for Agent Skills, summarized for local wiki use.
@@ -10,6 +11,8 @@ Catalog of wiki pages.
 - [wiki/source-example.md](wiki/source-example.md) — Placeholder source summary.
 
 ## Concepts
+- [wiki/concept-codex-platform-architecture.md](wiki/concept-codex-platform-architecture.md) — Architecture model across CLI/IDE/App/Cloud and automation surfaces.
+- [wiki/concept-codex-enterprise-rollout.md](wiki/concept-codex-enterprise-rollout.md) — Enterprise adoption path with governance controls.
 - [wiki/concept-skill-engineering-loop.md](wiki/concept-skill-engineering-loop.md) — Iterative method for designing/evaluating robust skills.
 - [wiki/concept-skill-rollout-and-governance.md](wiki/concept-skill-rollout-and-governance.md) — Team-scale rollout and governance model for skills.
 - [wiki/concept-agentskills-spec-and-lifecycle.md](wiki/concept-agentskills-spec-and-lifecycle.md) — Lifecycle model from spec through evaluation and maintenance.

@@ -36,3 +36,15 @@ Append-only timeline of ingest/query/lint operations.
 - Replaced fallback extraction with `pdftotext -layout` output.
 - Refreshed `raw/...extracted.md` and updated source/concept synthesis pages.
 - Improved quality and fidelity for future query/lint operations.
+
+## [2026-04-06] ingest | raw/codex-full-docs.md
+- Created `wiki/source-codex-full-docs.md`.
+- Added concepts: `wiki/concept-codex-platform-architecture.md`, `wiki/concept-codex-enterprise-rollout.md`.
+- Updated `index.md` source/concept listings.
+- Source stats: 0 pages detected.
+
+## [2026-04-06] ingest | raw/codex-full-docs.md
+- Created `wiki/source-codex-full-docs.md` from `llms-full` combined export.
+- Added/updated concepts: `wiki/concept-codex-platform-architecture.md`, `wiki/concept-codex-enterprise-rollout.md`.
+- Updated `index.md` source/concept entries.
+- Source stats: 446 H1 page sections, 95 Codex URLs referenced.
