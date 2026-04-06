@@ -31,3 +31,8 @@ Append-only timeline of ingest/query/lint operations.
 - Created `wiki/source-complete-guide-building-skills-claude.md`.
 - Added concepts: `wiki/concept-skill-engineering-loop.md`, `wiki/concept-skill-rollout-and-governance.md`.
 - Updated `index.md` entries.
+
+## [2026-04-06] re-ingest | raw/The-Complete-Guide-to-Building-Skill-for-Claude.pdf
+- Replaced fallback extraction with `pdftotext -layout` output.
+- Refreshed `raw/...extracted.md` and updated source/concept synthesis pages.
+- Improved quality and fidelity for future query/lint operations.

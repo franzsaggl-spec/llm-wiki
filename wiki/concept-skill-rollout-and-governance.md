@@ -10,6 +10,13 @@ tags: [skills, rollout, governance]
 # Skill Rollout and Governance
 
 ## Rollout model
-- Pilot, measure, promote in stages.
-- Maintain ownership and changelog.
-- Keep rollback path for bad versions.
+- Start with pilot users and constrained scope.
+- Track quality metrics and qualitative failure reports.
+- Promote in controlled stages (pilot -> team -> org).
+- Keep immediate rollback path for regressions.
+
+## Governance baseline
+- Named owner per skill.
+- Version pinning and changelog per release.
+- Pre-release eval gate.
+- Deprecation policy for obsolete or low-value skills.
