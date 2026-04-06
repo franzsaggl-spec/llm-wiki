@@ -3,12 +3,15 @@
 Catalog of wiki pages.
 
 ## Sources
+- [wiki/source-complete-guide-building-skills-claude.md](wiki/source-complete-guide-building-skills-claude.md) — Anthropic PDF guide on building Claude skills (with local extraction companion).
 - [wiki/source-agentskills-io-full-docs.md](wiki/source-agentskills-io-full-docs.md) — Combined AgentSkills.io docs snapshot (10 pages) with synthesis.
 - [wiki/source-agent-skills-best-practices.md](wiki/source-agent-skills-best-practices.md) — Official best-practice guidance for Agent Skills, summarized for local wiki use.
 - [wiki/source-claude-code-docs-full.md](wiki/source-claude-code-docs-full.md) — Combined Claude Code docs source (80 markdown pages) with first-pass synthesis.
 - [wiki/source-example.md](wiki/source-example.md) — Placeholder source summary.
 
 ## Concepts
+- [wiki/concept-skill-engineering-loop.md](wiki/concept-skill-engineering-loop.md) — Iterative method for designing/evaluating robust skills.
+- [wiki/concept-skill-rollout-and-governance.md](wiki/concept-skill-rollout-and-governance.md) — Team-scale rollout and governance model for skills.
 - [wiki/concept-agentskills-spec-and-lifecycle.md](wiki/concept-agentskills-spec-and-lifecycle.md) — Lifecycle model from spec through evaluation and maintenance.
 - [wiki/concept-agentskills-adoption-playbook.md](wiki/concept-agentskills-adoption-playbook.md) — Practical adoption and rollout guidance for teams.
 - [wiki/concept-agent-skills-design-principles.md](wiki/concept-agent-skills-design-principles.md) — Design principles for skill scope, clarity, and composability.

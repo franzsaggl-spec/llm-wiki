@@ -25,3 +25,9 @@ Append-only timeline of ingest/query/lint operations.
 - Added concepts: `wiki/concept-agentskills-spec-and-lifecycle.md`, `wiki/concept-agentskills-adoption-playbook.md`.
 - Updated `index.md` with new source and concept entries.
 - Source stats: 10 pages combined.
+
+## [2026-04-06] ingest | raw/The-Complete-Guide-to-Building-Skill-for-Claude.pdf
+- Added fallback extraction `raw/The-Complete-Guide-to-Building-Skill-for-Claude.extracted.md` (strings-based).
+- Created `wiki/source-complete-guide-building-skills-claude.md`.
+- Added concepts: `wiki/concept-skill-engineering-loop.md`, `wiki/concept-skill-rollout-and-governance.md`.
+- Updated `index.md` entries.
