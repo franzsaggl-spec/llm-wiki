@@ -4,3 +4,9 @@ Append-only timeline of ingest/query/lint operations.
 
 ## [2026-04-06] setup | initialized llm-wiki skeleton
 - Created base folders/files: `raw/`, `wiki/`, `AGENTS.md`, `index.md`, `log.md`, templates.
+
+## [2026-04-06] ingest | raw/claude-code-docs-full.md
+- Created `wiki/source-claude-code-docs-full.md` with first-pass summary and coverage map.
+- Added concept pages: `wiki/concept-claude-code-architecture.md`, `wiki/concept-claude-code-operations.md`.
+- Updated `index.md` entries for new source + concepts.
+- Source stats: 80 markdown pages combined.
