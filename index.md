@@ -15,4 +15,4 @@ Catalog of wiki pages.
 - *(none yet)*
 
 ## Analyses
-- *(none yet)*
+- [wiki/analysis-plugin-sharing-at-scale.md](wiki/analysis-plugin-sharing-at-scale.md) — Recommended rollout and governance model for sharing plugins to ~300 developers.

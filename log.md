@@ -10,3 +10,7 @@ Append-only timeline of ingest/query/lint operations.
 - Added concept pages: `wiki/concept-claude-code-architecture.md`, `wiki/concept-claude-code-operations.md`.
 - Updated `index.md` entries for new source + concepts.
 - Source stats: 80 markdown pages combined.
+
+## [2026-04-06] query->analysis | plugin sharing for ~300 developers
+- Filed answer into `wiki/analysis-plugin-sharing-at-scale.md`.
+- Updated `index.md` analyses section.
