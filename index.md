@@ -3,11 +3,14 @@
 Catalog of wiki pages.
 
 ## Sources
+- [wiki/source-agentskills-io-full-docs.md](wiki/source-agentskills-io-full-docs.md) — Combined AgentSkills.io docs snapshot (10 pages) with synthesis.
 - [wiki/source-agent-skills-best-practices.md](wiki/source-agent-skills-best-practices.md) — Official best-practice guidance for Agent Skills, summarized for local wiki use.
 - [wiki/source-claude-code-docs-full.md](wiki/source-claude-code-docs-full.md) — Combined Claude Code docs source (80 markdown pages) with first-pass synthesis.
 - [wiki/source-example.md](wiki/source-example.md) — Placeholder source summary.
 
 ## Concepts
+- [wiki/concept-agentskills-spec-and-lifecycle.md](wiki/concept-agentskills-spec-and-lifecycle.md) — Lifecycle model from spec through evaluation and maintenance.
+- [wiki/concept-agentskills-adoption-playbook.md](wiki/concept-agentskills-adoption-playbook.md) — Practical adoption and rollout guidance for teams.
 - [wiki/concept-agent-skills-design-principles.md](wiki/concept-agent-skills-design-principles.md) — Design principles for skill scope, clarity, and composability.
 - [wiki/concept-agent-skills-operational-hardening.md](wiki/concept-agent-skills-operational-hardening.md) — Reliability and safety model for production-grade skills.
 - [wiki/concept-claude-code-architecture.md](wiki/concept-claude-code-architecture.md) — High-level architecture model from docs.

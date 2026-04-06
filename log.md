@@ -19,3 +19,9 @@ Append-only timeline of ingest/query/lint operations.
 - Created `wiki/source-agent-skills-best-practices.md`.
 - Added concept pages: `wiki/concept-agent-skills-design-principles.md`, `wiki/concept-agent-skills-operational-hardening.md`.
 - Updated `index.md` with source + concept entries.
+
+## [2026-04-06] ingest | raw/agentskills-io-full-docs.md
+- Created `wiki/source-agentskills-io-full-docs.md`.
+- Added concepts: `wiki/concept-agentskills-spec-and-lifecycle.md`, `wiki/concept-agentskills-adoption-playbook.md`.
+- Updated `index.md` with new source and concept entries.
+- Source stats: 10 pages combined.
