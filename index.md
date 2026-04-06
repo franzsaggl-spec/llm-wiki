@@ -27,4 +27,6 @@ Catalog of wiki pages.
 - *(none yet)*
 
 ## Analyses
+- [wiki/analysis-lint-2026-04-06-pass2.md](wiki/analysis-lint-2026-04-06-pass2.md) — Lint pass 2 after adding Polarion strategy analysis.
+- [wiki/analysis-polarion-agent-access-strategy.md](wiki/analysis-polarion-agent-access-strategy.md) — Strategy for exposing Polarion SOAP data to coding agents via MCP/CLI hybrid architecture.
 - [wiki/analysis-plugin-sharing-at-scale.md](wiki/analysis-plugin-sharing-at-scale.md) — Recommended rollout and governance model for sharing plugins to ~300 developers.

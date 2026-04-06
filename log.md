@@ -54,3 +54,11 @@ Append-only timeline of ingest/query/lint operations.
 - Added report: `wiki/analysis-lint-2026-04-06.md`.
 - Updated `index.md` analyses listing.
 - Findings summary: 19 pages, 1 broken links, 3 orphans, 3 placeholder pages, 0 unindexed pages.
+
+## [2026-04-06] query->analysis | Polarion agent access strategy
+- Added `wiki/analysis-polarion-agent-access-strategy.md` from recent query decisions (MCP vs CLI, token overhead, architecture).
+- Updated `index.md` analyses entries.
+
+## [2026-04-06] lint | pass 2
+- Added `wiki/analysis-lint-2026-04-06-pass2.md`.
+- Findings: 21 pages scanned, 2 broken links, 5 orphans, 4 placeholder pages.
